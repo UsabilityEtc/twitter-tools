@@ -3,7 +3,7 @@
 require "json"
 
 #
-# extract-hashtags.rb
+# tweets2geojson.rb
 #
 # by Jeffrey Morgan
 # http://usabilityetc.com/
