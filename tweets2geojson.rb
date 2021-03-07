@@ -6,7 +6,7 @@ require "json"
 # tweets2geojson.rb
 #
 # by Jeffrey Morgan
-# http://usabilityetc.com/
+# https://jeffreymorgan.io/
 #
 # A command-line utility that reads tweets in JSON format
 # from the standard input and outputs a GeoJSON feature
